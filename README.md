@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Smuskan/Smuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀About me
 
-Here are some ideas to get you started:
+🔭 I’m Muskan Shaikh 
+🌱 I’m currently learning Java, Android , PHP 
+⚡ I'm really enthusiastic about learning new technology.
+🧑‍🎓 I'm currently pursuing Bachelors in Computer Engineering.
+😊Outside the world of tech too. love pushing myself to develop new skills ranging from guitar, dancing, sketching.
 
-####🔭 I’m currently working on ...
-🌱 I’m currently learning Java Android 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
