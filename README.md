@@ -4,7 +4,7 @@
 
 🔭 I’m Muskan Shaikh 
 
-🌱 I’m currently learning Java, Android
+🌱 I’m currently learning Java, Android, Python 
 
 ⚡ I'm really enthusiastic about learning new technology.
 
