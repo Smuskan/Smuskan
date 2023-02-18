@@ -1,7 +1,7 @@
 ![logo](https://github.com/Smuskan/Smuskan/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muskan Shaikh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="center" alt ="Coding" width="400" height="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img align="right" alt ="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smuskan&label=Profile%20views&color=0e75b6&style=flat" alt="smuskan" /> </p>
 
