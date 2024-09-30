@@ -110,6 +110,6 @@
 
 ###
 
-<p align="center">The only way to do great work is to love what you do<br>  — Steve Jobs</p>
+<h4 align="left">The only way to do great work is to love what you do  -Steve Jobs</h4>
 
 ###
