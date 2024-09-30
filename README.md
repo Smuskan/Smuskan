@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/75/fc/51/75fc51dd9fddd32e89a44062468ab79b.gif"  />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/4I46642wy2oAAAAC/anime-typing.gif"  />
 </div>
 
 ###
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m passionate about learning, and I tackle every challenge with a growth mindset!</p>
+<p align="left">Welcome to my coding universe!  I blend creativity and technology to craft innovative solutions, one line of code at a time.</p>
 
 ###
 
@@ -57,37 +57,63 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smuskan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Smuskan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smuskan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Smuskan/Smuskan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smuskan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="left">🚀 GitHub Contribution Graph</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smuskan&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">🛠️Quine Widgets</h2>
+
+###
+
+<p align="left">🔥Coding Streak</p>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Smuskan&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<p align="left">⏳Languages Over Time</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smuskan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="center">The only way to do great work is to love what you do<br>  — Steve Jobs</p>
 
 ###
