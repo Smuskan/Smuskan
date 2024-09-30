@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://giffiles.alphacoders.com/121/12113.gif"  />
 </div>
 
