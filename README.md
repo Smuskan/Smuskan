@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="200" src="https://media1.tenor.com/m/AW_4gupjfHQAAAAC/hachubby-rokubop.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/75/fc/51/75fc51dd9fddd32e89a44062468ab79b.gif"  />
 </div>
 
 ###
@@ -79,12 +79,15 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smuskan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Smuskan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smuskan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://github.com/Smuskan/Smuskan/blob/main/snake.yml" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Smuskan/Smuskan/output/snake.svg" alt="Snake animation" />
 
 ###
