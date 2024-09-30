@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Smuskan/Smuskan/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Smuskan/Smuskan/blob/main/snake.yml" alt="Snake animation" />
 
 ###
