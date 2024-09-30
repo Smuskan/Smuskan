@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://static.wixstatic.com/media/4a955d_66ce93f9d61b4cc0b7c99ac391f86de6~mv2.gif"  />
-</div>
+<img align="left" height="206" src="https://static.wixstatic.com/media/4a955d_66ce93f9d61b4cc0b7c99ac391f86de6~mv2.gif"  />
 
 ###
 
