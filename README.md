@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/4I46642wy2oAAAAC/anime-typing.gif"  />
+  <img height="200" src="https://static.wixstatic.com/media/4a955d_66ce93f9d61b4cc0b7c99ac391f86de6~mv2.gif"  />
 </div>
 
 ###
