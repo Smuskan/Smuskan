@@ -26,6 +26,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -110,6 +112,6 @@
 
 ###
 
-<h4 align="left">The only way to do great work is to love what you do  -Steve Jobs</h4>
+<h4 align="left">||  The only way to do great work is to love what you do  -Steve Jobs ||</h4>
 
 ###
