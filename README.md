@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="200" src="https://static.wixstatic.com/media/4a955d_66ce93f9d61b4cc0b7c99ac391f86de6~mv2.gif"  />
+  <img height="207" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwAMROcUrgw0ce0-RB2hXarR0QZ18CNtjZfxb8KOPIcmsqkGwc57QdJUqaaKAhu5q_DCw&usqp=CAU"  />
 </div>
 
 ###
@@ -14,15 +14,15 @@
 
 ###
 
-<h2 align="left">👩‍💻A Byte About Me</h2>
+<h2 align="left">👩‍💻 A Byte About Me</h2>
 
 ###
 
-<p align="left">- 🌟 Enquire me regarding C,C++,Java ,Python,MYSQL<br>- 📚 I'm currently learning  DevOps ,Cloud Computing<br>- ⚡ In my free time I love to Build Fun Projects <br>-🎲 Fun Fact I see everything in dark mode <br>- 📫 How to reach me muskanshaikh172003@gmail.com</p>
+<p align="left">🌟 Ask Me About  C, C++, Java, Python, PHP,MySQL<br>📚 Learning  DevOps & Cloud Computing<br>⚡ Free Time  Building quirky, fun projects that push my limits<br>🎲 Fun Fact  I see the world in dark mode – always<br>📫 Contact muskanshaikh172003@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🎨 My Code Palette</h2>
 
 ###
 
