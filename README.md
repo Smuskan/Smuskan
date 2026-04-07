@@ -5,12 +5,14 @@
 </div>
 
 ###
-
-<h2 align="left">Hello, World!  Muskan Shaikh here!</h2>
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello, World!,+Muskan+Shaikh+here !" />
+</div>
+<!--  <h2 align="left">Hello, World!  Muskan Shaikh here!</h2>  -->
 
 ###
 
-<p align="left">Welcome to my coding universe!  I blend creativity and technology to craft innovative solutions, one line of code at a time.</p>
+<p align="left"> Not everything fits into 0s and 1s — that’s where real innovation begins. </p>
 
 ###
 
