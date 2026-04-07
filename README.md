@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+
 
 ###
 
@@ -72,42 +72,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Smuskan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="159" alt="stats graph"  />
-</div>
-
-###
-
-<h2 align="left">🚀 GitHub Contribution Graph</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smuskan&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">🛠️Quine Widgets</h2>
-
-###
-
-<p align="left">🔥Coding Streak</p>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Smuskan&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<p align="left">⏳Languages Over Time</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Smuskan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
