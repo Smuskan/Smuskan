@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌟 Ask Me About  C, C++, Java, Python, PHP,MySQL<br>📚 Currently leveling up in Generative AI<br>⚡ Free Time  Building quirky, fun projects that push my limits<br>🎲 Fun Fact  I see the world in dark mode – always<br>📫 Contact muskanshaikh172003@gmail.com</p>
+<p align="left">🌟 It works… don’t ask how.😄🔥L<br>📚 Currently leveling up in Generative AI<br>⚡ Free Time  Building quirky, fun projects that push my limits<br>🎲 Fun Fact  I see the world in dark mode – always<br>📫 Contact muskanshaikh172003@gmail.com</p>
 
 ###
 
